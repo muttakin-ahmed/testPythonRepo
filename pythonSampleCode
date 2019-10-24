@@ -5,7 +5,6 @@ def sumNumbers(dic):
         for j in dic[i]:
             sm += j
     return sm
-#print(convertToBase7(9))
 d = ({
     "numbers" : [1,2,-3]
 })
