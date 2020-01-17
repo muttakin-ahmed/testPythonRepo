@@ -1,2 +1,2 @@
 # testPythonApp
-This is a test python app with mongoDB.
+This is a python repository for sample codes.
